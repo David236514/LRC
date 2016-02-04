@@ -1,7 +1,6 @@
 {
-    "pluginsConfig": {
-       "search": {
-            "maxIndexSize": 100000
-       }
-    }
+    "pluginsConfig": {},
+    "plugins": [
+        "-autocover"
+    ]
 }
