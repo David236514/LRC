@@ -1,5 +1,5 @@
 ## 第三期廣州組
 
 <div style="text-align:center">
-<img src="https://oss.aliyuncs.com/colorworks/f65c3e9e9a419b12885e1e3434e5de26/%E6%AD%A3%E9%9D%A2.jpg"/>
+<img src="https://41.media.tumblr.com/d7a47b714762020bd266f14ea662d19c/tumblr_o20092sKCF1uft3xho1_540.jpg"/>
 </div>
