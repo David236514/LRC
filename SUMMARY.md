@@ -2,9 +2,9 @@
 
 * [前言](introduction.md)
  
-* [立大2011](lrc2011.md)
- * [开幕词](kaimuci.md)
- * [熊培云](xiongpeiyun.md) 
+* [立大2011](lrc2011/lrc2011.md)
+ * [开幕词](lrc2011/kaimuci.md)
+ * [熊培云](lrc/2011/xiongpeiyun.md) 
 * [立大2012](lrc2012.md)
 
 * [北京2013](beijing2013.md)
