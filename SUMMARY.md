@@ -21,6 +21,7 @@
  * [曲栋：公民社会与青年行动](guangzhou2013/civilsociety&qingnianxingdong.md)
  * [黄雪涛：公共法律行动](guangzhou2013/gongonglawxingdong.md)
  * [李思涯：电影与后现代主义](guangzhou2013/sf&postmodern.md)
+ * [张晓静、陈洲：艺术与女权主义](guangzhou2013/art&feminism.md)
 
 * [成都2013](chengdu2013/chengdu2013.md)
 
