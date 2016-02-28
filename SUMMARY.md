@@ -13,31 +13,31 @@
 * [上海2013](shanghai2013/shanghai2013.md)
 
 * [广州2013](guangzhou2013/Guangzhou2013.md)
- * [邓伟生：国家的正当性问题](guangzhou2013/guojiazhengdangxing.md)
+ * [邓伟生：国家的正当性问题](guangzhou2013/justification-of-Country.md)
 
  * [赖伟军：社会调查研究方法](guangzhou2013/societyresearchways.md)
 
- * [周如南：乌坎观察——探寻走出转型陷阱的动力](guangzhou2013/zhou_ru_nan_ff1a_wu_kan_guan_cha_2014_2014_tan_xun.md)
+ * [周如南：乌坎观察——探寻走出转型陷阱的动力](guangzhou2013/wukan.md)
 
- * [陈定方：独立书店在城市中的困境、突围与选择](guangzhou2013/dulibookstore.md)
+ * [陈定方：独立书店在城市中的困境、突围与选择](guangzhou2013/independent-bookstore.md)
 
- * [安猪：公益实战研讨会](guangzhou2013/gongyishizhanyantaohui.md)
+ * [安猪：公益实战研讨会](guangzhou2013/NGO-seminar.md)
 
- * [彭嘉志：广府文化](guangzhou2013/guangfuculture.md)
+ * [彭嘉志：广府文化](guangzhou2013/cantonese-culture.md)
 
- * [刘琼雄：跨界青年学——看不见的年轻人](guangzhou2013/kuajieqingnianren.md)
+ * [刘琼雄：跨界青年学——看不见的年轻人](guangzhou2013/liuqiongxiong.md)
 
  * [刘根勤：岭南文化](guangzhou2013/lingnanculture.md)
 
  * [余以为：如何养成批判性思维](guangzhou2013/criticalthinking.md)
 
- * [鄢烈山：转型时期媒体人的社会责任](guangzhou2013/zhuanxingshiqimeitirenshehuizeren.md)
+ * [鄢烈山：转型时期媒体人的社会责任](guangzhou2013/media-social-responsibility.md)
 
  * [戴志勇：向内与向外——评论可以抵达何处](guangzhou2013/iner&outer.md)
 
  * [曲栋：公民社会与青年行动](guangzhou2013/civilsociety&qingnianxingdong.md)
 
- * [黄雪涛：公共法律行动](guangzhou2013/gongonglawxingdong.md)
+ * [黄雪涛：公共法律行动](guangzhou2013/public-law-action.md)
 
  * [李思涯：电影与后现代主义](guangzhou2013/sf&postmodern.md)
 
