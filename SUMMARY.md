@@ -25,9 +25,11 @@
 
  * [彭嘉志：广府文化](guangzhou2013/cantonese-culture.md)
 
- * [刘琼雄：跨界青年学——看不见的年轻人](guangzhou2013/liuqiongxiong.md)
-
  * [刘根勤：岭南文化](guangzhou2013/lingnanculture.md)
+
+ * [朱晔：中国城市化](guangzhou2013/ChineseUrbanization.md)
+
+ * [刘琼雄：跨界青年学——看不见的年轻人](guangzhou2013/liuqiongxiong.md)
 
  * [余以为：如何养成批判性思维](guangzhou2013/criticalthinking.md)
 
