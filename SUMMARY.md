@@ -72,6 +72,14 @@
 
 * [广州2014](guangzhou2014/guangzhou2014.md)
 
+ * [邓伟生：Rawls 的正义理论](guangzhou2014/dengweisheng.md)
+
+ * [李公明：李公明讲课记录](guangzhou2014/ligongming.md)
+
+ * [彼得猫：二手书和二次生命创造](guangzhou2014/bidemao.md)
+
+ * [宁二：温柔的愤怒——过去十年中国的民谣唱作人](guangzhou2014/ninger.md)
+
 * [成都2014](chengdu2014/chengdu2014.md)
 
 * [南京2014](nanjing2014/nanjing2014.md)
