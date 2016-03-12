@@ -10,13 +10,17 @@
 
 * [北京2013](beijing2013/beijing2013.md)
  * [黄剑波：中国的民族与民族的中国](beijing2013/Huangjianbo.md)
- 
+
  * [苑明理：维基百科与互联网](beijing2013/wikipedia.md)
- 
+
  * [梁晓燕：在民间寻找事业和生命的价值](beijing2013/liangxiaoyan.md)
- 
+
  * [赵鼎新：诚信，诚信危机与诚信构建](beijing2013/zhaodingxin.md)
- 
+
+ * [台湾苦劳网记者：烽火大地 永恒之旅——一个华人记者的国际采访感悟](beijing2013/GlobalReporter.md)
+
+ * [杨早：人文教育的必要性](beijing2013/humaneducation.md)
+
 * [上海2013](shanghai2013/shanghai2013.md)
 
 * [广州2013](guangzhou2013/Guangzhou2013.md)
