@@ -22,9 +22,9 @@
  * [台湾苦劳网记者：烽火大地 永恒之旅——一个华人记者的国际采访感悟](beijing2013/GlobalReporter.md)
 
  * [杨早：人文教育的必要性](beijing2013/humaneducation.md)
- 
+
  * [张帆：摇滚与中国](beijing2013/rockmusic.md)
- 
+
  * [刘骐鸣：当代艺术中的民主意识——兼谈艺术家在社会中的角色与地位](beijing2013/liuqiming.md)
 
 * [上海2013](shanghai2013/shanghai2013.md)
