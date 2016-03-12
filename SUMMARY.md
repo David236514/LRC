@@ -25,7 +25,7 @@
  
  * [张帆：摇滚与中国](beijing2013/rockmusic.md)
  
- * [刘骐鸣：当代艺术中的民主意识——兼谈艺术家在社会中的角色与地位](liuqiming.md)
+ * [刘骐鸣：当代艺术中的民主意识——兼谈艺术家在社会中的角色与地位](beijing2013/liuqiming.md)
 
 * [上海2013](shanghai2013/shanghai2013.md)
 
