@@ -6,11 +6,13 @@
 
 在2013年立大遊學前，已有《大學在人間》文集出版印刷，主要整理了2011年講課內容、2012年部分個人隨記。
 
-[《大學在人間》](published)
+[《大學 在人間》](https://github.com/LirenCollege/LRC/blob/master/published)
 
 在此基礎上，繼續使用「大學 在人間」書名，將四期已有文稿審核整理成电子文档。
 
 ***
 ## 授權許可
 
-除特别声明外，本书中的内容使用 [CC BY-SA-NC 4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)（创作共用 署名-相同方式共享4.0许可协议）授权。
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a>
+除特别声明外，本书中的内容使用 [CC BY-NC-ND 4.0 License](https://creativecommons.org/licenses/by-nc-nd/4.0/)（创作共用 署名-非商业用途-禁止演绎 4.0 许可协议）授权。
+
