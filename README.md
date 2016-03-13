@@ -14,5 +14,6 @@
 ## 授權許可
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a>
+
 除特别声明外，本书中的内容使用 [CC BY-NC-ND 4.0 License](https://creativecommons.org/licenses/by-nc-nd/4.0/)（创作共用 署名-非商业用途-禁止演绎 4.0 许可协议）授权。
 
