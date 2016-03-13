@@ -27,6 +27,8 @@
 
  * [刘骐鸣：当代艺术中的民主意识——兼谈艺术家在社会中的角色与地位](beijing2013/liuqiming.md)
 
+ * [柏邦妮：聊写作，聊生活](beijing2013/baibangni.md)
+
 * [上海2013](shanghai2013/shanghai2013.md)
 
 * [广州2013](guangzhou2013/Guangzhou2013.md)
