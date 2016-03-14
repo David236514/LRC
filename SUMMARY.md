@@ -76,7 +76,7 @@
 
  * [邓伟生：Rawls 的正义理论](guangzhou2014/dengweisheng.md)
 
- * [李公明：李公明讲课记录](guangzhou2014/ligongming.md)
+ * [李公明：艺术欣赏](guangzhou2014/ligongming.md)
 
  * [彼得猫：二手书和二次生命创造](guangzhou2014/bidemao.md)
 
