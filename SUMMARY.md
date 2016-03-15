@@ -29,6 +29,12 @@
 
  * [柏邦妮：聊写作，聊生活](beijing2013/baibangni.md)
 
+ * [柳红：在时代的洪流里我们该如何站立](beijing2013/liuhong.md)
+
+ * [树才：诗歌中的人与自我](beijing2013/shucai.md)
+
+ * [王建勋：从当下的反宪政思潮说起](beijing2013/wangjianxun.md)
+
 * [上海2013](shanghai2013/shanghai2013.md)
 
 * [广州2013](guangzhou2013/Guangzhou2013.md)
