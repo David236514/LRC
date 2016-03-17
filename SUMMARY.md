@@ -34,6 +34,8 @@
  * [树才：诗歌中的人与自我](beijing2013/shucai.md)
 
  * [王建勋：从当下的反宪政思潮说起](beijing2013/wangjianxun.md)
+ 
+ * [王翔:戏剧是什么？](beijing2013/wangxiang.md)
 
 * [上海2013](shanghai2013/shanghai2013.md)
 
