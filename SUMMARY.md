@@ -11,8 +11,9 @@
 * [立大2012](lrc2012/lrc2012.md)
 
 * [北京2013](beijing2013/beijing2013.md)
+
  * [王建勋：从当下的反宪政思潮说起](beijing2013/wangjianxun.md)
- 
+
  * [黄剑波：中国的民族与民族的中国](beijing2013/Huangjianbo.md)
 
  * [苑明理：维基百科与互联网](beijing2013/wikipedia.md)
@@ -35,9 +36,7 @@
 
  * [树才：诗歌中的人与自我](beijing2013/shucai.md)
 
- * [王建勋：从当下的反宪政思潮说起](beijing2013/wangjianxun.md)
- 
- * [王翔:戏剧是什么？](beijing2013/wangxiang.md)
+ * [王翔：戏剧是什么？](beijing2013/wangxiang.md)
 
 * [上海2013](shanghai2013/shanghai2013.md)
 
