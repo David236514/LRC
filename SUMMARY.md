@@ -61,8 +61,6 @@
 
  * [余以为：如何养成批判性思维](guangzhou2013/criticalthinking.md)
 
- * [鄢烈山：转型时期媒体人的社会责任](guangzhou2013/media-social-responsibility.md)
-
  * [戴志勇：向内与向外——评论可以抵达何处](guangzhou2013/iner&outer.md)
 
  * [曲栋：公民社会与青年行动](guangzhou2013/civilsociety&qingnianxingdong.md)
@@ -72,8 +70,6 @@
  * [李思涯：电影与后现代主义](guangzhou2013/sf&postmodern.md)
 
  * [张晓静、陈洲：艺术与女权主义](guangzhou2013/art&feminism.md)
-
- * [吴幼坚：爱的分享](guangzhou2013/shareoflove.md)
 
 * [成都2013](chengdu2013/chengdu2013.md)
 
@@ -90,6 +86,8 @@
  * [彼得猫：二手书和二次生命创造](guangzhou2014/bidemao.md)
 
  * [宁二：温柔的愤怒——过去十年中国的民谣唱作人](guangzhou2014/ninger.md)
+
+ * [Tony Yet : 从问对问题开始](guangzhou2014/Tony_Yet.md)
 
 * [成都2014](chengdu2014/chengdu2014.md)
 
