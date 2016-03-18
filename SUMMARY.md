@@ -2,55 +2,55 @@
 
 * [前言](introduction.md)
 
-* [立大2011](lrc2011/lrc2011.md)
+* [立大 2011](lrc2011/lrc2011.md)
 
  * [开幕词](lrc2011/kaimuci.md)
 
  * [熊培云](lrc2011/xiongpeiyun.md)
 
-* [立大2012](lrc2012/lrc2012.md)
+* [立大 2012](lrc2012/lrc2012.md)
 
-* [立大2013]()
+* [立大 2013](lrc2013/lrc2013.md)
 
- * [北京2013](beijing2013/beijing2013.md)
+ * [北京组](lrc2013/beijing2013/beijing2013.md)
 
-   * [授课文字]()
+   * [授课文字](lrc2013/beijing2013/articles.md)
 
-     * [王建勋：从当下的反宪政思潮说起](beijing2013/wangjianxun.md)
+     * [王建勋：从当下的反宪政思潮说起](lrc2013/beijing2013/articles/wangjianxun.md)
 
-     * [黄剑波：中国的民族与民族的中国](beijing2013/Huangjianbo.md)
+     * [黄剑波：中国的民族与民族的中国](lrc2013/beijing2013/articles/Huangjianbo.md)
 
-     * [苑明理：维基百科与互联网](beijing2013/wikipedia.md)
+     * [苑明理：维基百科与互联网](lrc2013/beijing2013/articles/wikipedia.md)
 
-     * [梁晓燕：在民间寻找事业和生命的价值](beijing2013/liangxiaoyan.md)
+     * [梁晓燕：在民间寻找事业和生命的价值](lrc2013/beijing2013/articles/liangxiaoyan.md)
 
-     * [赵鼎新：诚信，诚信危机与诚信构建](beijing2013/zhaodingxin.md)
+     * [赵鼎新：诚信，诚信危机与诚信构建](lrc2013/beijing2013/articles/zhaodingxin.md)
 
-     * [张翠容：烽火大地 永恒之旅——一个华人记者的国际采访感悟](beijing2013/GlobalReporter.md)
+     * [张翠容：烽火大地 永恒之旅——一个华人记者的国际采访感悟](lrc2013/beijing2013/articles/GlobalReporter.md)
 
-     * [杨早：人文教育的必要性](beijing2013/humaneducation.md)
+     * [杨早：人文教育的必要性](lrc2013/beijing2013/articles/humaneducation.md)
 
-     * [张帆：摇滚与中国](beijing2013/rockmusic.md)
+     * [张帆：摇滚与中国](lrc2013/beijing2013/articles/rockmusic.md)
 
-     * [刘骐鸣：当代艺术中的民主意识——兼谈艺术家在社会中的角色与地位](beijing2013/liuqiming.md)
+     * [刘骐鸣：当代艺术中的民主意识——兼谈艺术家在社会中的角色与地位](lrc2013/beijing2013/articles/liuqiming.md)
 
-     * [柏邦妮：聊写作，聊生活](beijing2013/baibangni.md)
+     * [柏邦妮：聊写作，聊生活](lrc2013/beijing2013/articles/baibangni.md)
 
-     * [柳红：在时代的洪流里我们该如何站立](beijing2013/liuhong.md)
+     * [柳红：在时代的洪流里我们该如何站立](lrc2013/beijing2013/articles/liuhong.md)
 
-     * [树才：诗歌中的人与自我](beijing2013/shucai.md)
+     * [树才：诗歌中的人与自我](lrc2013/beijing2013/articles/shucai.md)
 
-     * [王翔：戏剧是什么？](beijing2013/wangxiang.md)
+     * [王翔：戏剧是什么？](lrc2013/beijing2013/articles/wangxiang.md)
 
-   * [LAT 分享会]()
+   * [LAT 分享会](lrc2013/beijing2013/lat.md)
 
-   * [学员文章]()
+   * [学员记忆](beijing2013/learners.md)
 
- * [上海2013](shanghai2013/shanghai2013.md)
+ * [上海组](shanghai2013/shanghai2013.md)
 
- * [广州2013](guangzhou2013/Guangzhou2013.md)
+ * [广州组](guangzhou2013/Guangzhou2013.md)
 
-   * [授课文字]()
+   * [授课文字](guangzhou2013/articles.md)
 
      * [邓伟生：国家的正当性问题](guangzhou2013/justification-of-Country.md)
 
@@ -82,17 +82,17 @@
 
      * [张晓静、陈洲：艺术与女权主义](guangzhou2013/art&feminism.md)
 
-* [成都2013](chengdu2013/chengdu2013.md)
+* [成都组](chengdu2013/chengdu2013.md)
 
-* [立大2014]()
+* [立大 2014](lrc2014/lrc2014.md)
 
- * [北京2014](beijing2014/beijing2014.md)
+ * [北京组](beijing2014/beijing2014.md)
 
- * [上海2014](shanghai2014/shanghai2014.md)
+ * [上海组](shanghai2014/shanghai2014.md)
 
- * [广州2014](guangzhou2014/guangzhou2014.md)
+ * [广州组](guangzhou2014/guangzhou2014.md)
 
-   * [授课文字]()
+   * [授课文字](guangzhou2014/articles.md)
 
      * [邓伟生：Rawls 的正义理论](guangzhou2014/dengweisheng.md)
 
@@ -104,11 +104,15 @@
 
      * [Tony Yet : 从问对问题开始](guangzhou2014/Tony_Yet.md)
 
- * [成都2014](chengdu2014/chengdu2014.md)
+   * [LAT 分享会](guangzhou2014/lat.md)
 
- * [南京2014](nanjing2014/nanjing2014.md)
+   * [学员记忆](guangzhou2014/learners.md)
 
- * [武汉2014](wuhan2014/wuhan2014.md)
+ * [成都组](chengdu2014/chengdu2014.md)
+
+ * [南京组](nanjing2014/nanjing2014.md)
+
+ * [武汉组](wuhan2014/wuhan2014.md)
 
 * [寄语](end.md)
 
