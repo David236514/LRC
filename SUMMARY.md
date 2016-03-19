@@ -32,7 +32,7 @@
 
      * [张帆：摇滚与中国](lrc2013/beijing2013/articles/rockmusic.md)
      
-     * [雷颐：中国近代国家观念之变化](lrc2013/beijing2013/articles/leiyi.md)
+     * [雷颐：中国近代国家观念之变化](lrc2013/beijing2013/leiyi.md)
 
      * [刘骐鸣：当代艺术中的民主意识——兼谈艺术家在社会中的角色与地位](lrc2013/beijing2013/articles/liuqiming.md)
 
