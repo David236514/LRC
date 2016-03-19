@@ -1,6 +1,6 @@
 ## LAT 分享会
 
-![LAT](jpg/LAT_logo.jpg)
+![lat](jpg/LAT_logo.png)
 
 LAT（Learning and Thinking），学思分享会是立人大学（LRC）的传统项目。
 
