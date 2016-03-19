@@ -22,6 +22,14 @@
 
      * [冯克利：学思分享](lrc2013/LAT/fengkeli.md)
 
+     * [王怡：我的学思历程](lrc2013/LAT/wangyi.md)
+
+     * [土家野夫：学思分享](lrc2013/LAT/yefu.md)
+
+     * [谌洪果：学思分享](lrc2013/LAT/chenhongguo.md)
+
+     * [蒋林：学思分享](lrc2013/LAT/jianglin.md)
+
  * [北京组](lrc2013/beijing2013/beijing2013.md)
 
    * [授课文字](lrc2013/beijing2013/articles.md)
