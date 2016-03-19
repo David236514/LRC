@@ -82,7 +82,7 @@
 
        * [余以为：如何养成批判性思维](lrc2013/guangzhou2013/articles/criticalthinking.md)
 
-       * [戴志勇：向内与向外——评论可以抵达何处](lrc2013/guangzhou2013/articles.iner&outer.md)
+       * [戴志勇：向内与向外——评论可以抵达何处](lrc2013/guangzhou2013/articles/iner&outer.md)
 
        * [曲栋：公民社会与青年行动](lrc2013/guangzhou2013/articles/civilsociety&qingnianxingdong.md)
 
