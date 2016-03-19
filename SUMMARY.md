@@ -12,7 +12,7 @@
 
 * [立大 2013](lrc2013/lrc2013.md)
   
- * [LAT 分享会](lrc2013/beijing2013/lat.md)
+ * [LAT 分享会](lrc2013/LAT/lat.md)
     
    * [韩旭宽：中国城市里的个人主义](lrc2013/LAT/hangxukuan.md)
     
