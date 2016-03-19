@@ -46,75 +46,74 @@
 
    * [LAT 分享会](lrc2013/beijing2013/lat.md)
 
-   * [学员记忆](beijing2013/learners.md)
+   * [学员记忆](lrc2013/beijing2013/learners.md)
 
- * [上海组](shanghai2013/shanghai2013.md)
+ * [上海组](lrc2013/shanghai2013/shanghai2013.md)
 
- * [广州组](guangzhou2013/Guangzhou2013.md)
+ * [广州组](lrc2013/guangzhou2013/Guangzhou2013.md)
 
-   * [授课文字](guangzhou2013/articles.md)
+   * [授课文字](lrc2013/guangzhou2013/articles.md)
 
-       * [邓伟生：国家的正当性问题](guangzhou2013/justification-of-Country.md)
+       * [邓伟生：国家的正当性问题](lrc2013/guangzhou2013/justification-of-Country.md)
 
-       * [赖伟军：社会调查研究方法](guangzhou2013/societyresearchways.md)
+       * [赖伟军：社会调查研究方法](lrc2013/guangzhou2013/societyresearchways.md)
 
-       * [周如南：乌坎观察——探寻走出转型陷阱的动力](guangzhou2013/wukan.md)
+       * [周如南：乌坎观察——探寻走出转型陷阱的动力](lrc2013/guangzhou2013/wukan.md)
 
-       * [陈定方：独立书店在城市中的困境、突围与选择](guangzhou2013/independent-bookstore.md)
+       * [陈定方：独立书店在城市中的困境、突围与选择](lrc2013/guangzhou2013/independent-bookstore.md)
 
-       * [安猪：公益实战研讨会](guangzhou2013/NGO-seminar.md)
+       * [安猪：公益实战研讨会](lrc2013/guangzhou2013/NGO-seminar.md)
 
-       * [彭嘉志：广府文化](guangzhou2013/cantonese-culture.md)
+       * [彭嘉志：广府文化](lrc2013/guangzhou2013/cantonese-culture.md)
 
-       * [刘根勤：岭南文化](guangzhou2013/lingnanculture.md)
+       * [刘根勤：岭南文化](lrc2013/guangzhou2013/lingnanculture.md)
 
-       * [朱晔：中国城市化](guangzhou2013/ChineseUrbanization.md)
+       * [朱晔：中国城市化](lrc2013/guangzhou2013/ChineseUrbanization.md)
 
-       * [刘琼雄：跨界青年学——看不见的年轻人](guangzhou2013/liuqiongxiong.md)
+       * [刘琼雄：跨界青年学——看不见的年轻人](lrc2013/guangzhou2013/liuqiongxiong.md)
 
-       * [余以为：如何养成批判性思维](guangzhou2013/criticalthinking.md)
+       * [余以为：如何养成批判性思维](lrc2013/guangzhou2013/criticalthinking.md)
 
-       * [戴志勇：向内与向外——评论可以抵达何处](guangzhou2013/iner&outer.md)
+       * [戴志勇：向内与向外——评论可以抵达何处](lrc2013/guangzhou2013/iner&outer.md)
 
-       * [曲栋：公民社会与青年行动](guangzhou2013/civilsociety&qingnianxingdong.md)
+       * [曲栋：公民社会与青年行动](lrc2013/guangzhou2013/civilsociety&qingnianxingdong.md)
 
-       * [黄雪涛：公共法律行动](guangzhou2013/public-law-action.md)
+       * [黄雪涛：公共法律行动](lrc2013/guangzhou2013/public-law-action.md)
 
-       * [李思涯：电影与后现代主义](guangzhou2013/sf&postmodern.md)
+       * [李思涯：电影与后现代主义](lrc2013/guangzhou2013/sf&postmodern.md)
 
-       * [张晓静、陈洲：艺术与女权主义](guangzhou2013/art&feminism.md)
+       * [张晓静、陈洲：艺术与女权主义](lrc2013/guangzhou2013/art&feminism.md)
 
-* [成都组](chengdu2013/chengdu2013.md)
+* [成都组](lrc2013/chengdu2013/chengdu2013.md)
 
 * [立大 2014](lrc2014/lrc2014.md)
 
- * [北京组](beijing2014/beijing2014.md)
+ * [北京组](lrc2014/beijing2014/beijing2014.md)
 
- * [上海组](shanghai2014/shanghai2014.md)
+ * [上海组](lrc2014/shanghai2014/shanghai2014.md)
 
- * [广州组](guangzhou2014/guangzhou2014.md)
+ * [广州组](lrc2014/guangzhou2014/guangzhou2014.md)
 
-   * [授课文字](guangzhou2014/articles.md)
+   * [授课文字](lrc2014/guangzhou2014/articles.md)
 
-       * [邓伟生：Rawls 的正义理论](guangzhou2014/dengweisheng.md)
+       * [邓伟生：Rawls 的正义理论](lrc2014/guangzhou2014/dengweisheng.md)
 
-       * [李公明：艺术欣赏](guangzhou2014/ligongming.md)
+       * [李公明：艺术欣赏](lrc2014/guangzhou2014/ligongming.md)
 
-       * [彼得猫：二手书和二次生命创造](guangzhou2014/bidemao.md)
+       * [彼得猫：二手书和二次生命创造](lrc2014/guangzhou2014/bidemao.md)
 
-       * [宁二：温柔的愤怒——过去十年中国的民谣唱作人](guangzhou2014/ninger.md)
+       * [宁二：温柔的愤怒——过去十年中国的民谣唱作人](lrc2014/guangzhou2014/ninger.md)
 
-       * [Tony Yet : 从问对问题开始](guangzhou2014/Tony_Yet.md)
+       * [Tony Yet : 从问对问题开始](lrc2014/guangzhou2014/Tony_Yet.md)
 
-   * [LAT 分享会](guangzhou2014/lat.md)
+   * [LAT 分享会](lrc2014/guangzhou2014/lat.md)
 
-   * [学员记忆](guangzhou2014/learners.md)
+   * [学员记忆](lrc2014/guangzhou2014/learners.md)
 
- * [成都组](chengdu2014/chengdu2014.md)
+ * [成都组](lrc2014/chengdu2014/chengdu2014.md)
 
- * [南京组](nanjing2014/nanjing2014.md)
+ * [南京组](lrc2014/nanjing2014/nanjing2014.md)
 
- * [武汉组](wuhan2014/wuhan2014.md)
+ * [武汉组](lrc2014/wuhan2014/wuhan2014.md)
 
 * [寄语](end.md)
-
