@@ -1,5 +1,7 @@
 ## LAT 分享会
 
+![LAT_LOGO](jpg/LAT_logo.jpg)
+
 LAT（Learning and Thinking），学思分享会是立人大学（LRC）的传统项目。
 
 2011年7月，刘瑜、熊培云、张健、秋风、朱海就等与LRC学员分享学思历程。
