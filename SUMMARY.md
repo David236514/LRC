@@ -11,7 +11,11 @@
 * [立大 2012](lrc2012/lrc2012.md)
 
 * [立大 2013](lrc2013/lrc2013.md)
-
+  
+ * [LAT 分享会](lrc2013/beijing2013/lat.md)
+    
+   *[韩旭宽：中国城市里的个人主义](lrc2013/LAT/hangxukuan.md)
+    
  * [北京组](lrc2013/beijing2013/beijing2013.md)
 
    * [授课文字](lrc2013/beijing2013/articles.md)
@@ -43,8 +47,6 @@
        * [树才：诗歌中的人与自我](lrc2013/beijing2013/articles/shucai.md)
 
        * [王翔：戏剧是什么？](lrc2013/beijing2013/articles/wangxiang.md)
-
-   * [LAT 分享会](lrc2013/beijing2013/lat.md)
 
    * [学员记忆](lrc2013/beijing2013/learners.md)
 
