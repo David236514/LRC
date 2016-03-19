@@ -14,13 +14,13 @@
 
  * [LAT 分享会](lrc2013/LAT/lat.md)
 
-   * [韩旭宽：中国城市里的个人主义](lrc2013/LAT/hangxukuan.md)
+     * [韩旭宽：中国城市里的个人主义](lrc2013/LAT/hangxukuan.md)
 
-   * [周濂：大学的德性和大学生的德性](lrc2013/LAT/zhoulian.md)
+     * [周濂：大学的德性和大学生的德性](lrc2013/LAT/zhoulian.md)
 
-   * [郝建：从当代的艺术元素看中国独立电影](lrc2013/LAT/haojian.md)
+     * [郝建：从当代的艺术元素看中国独立电影](lrc2013/LAT/haojian.md)
 
-   * [冯克利：学思分享](lrc2013/LAT/fengkeli.md)
+     * [冯克利：学思分享](lrc2013/LAT/fengkeli.md)
 
  * [北京组](lrc2013/beijing2013/beijing2013.md)
 
