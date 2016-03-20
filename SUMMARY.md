@@ -106,13 +106,13 @@
 
        * [李心释：语言与世界](lrc2013/chengdu2013/articles/lixinshi.md)
        
-       * [王怡：我的学思历程](lrc2013/LAT/wangyi.md)
+       * [王怡：我的学思历程](lrc2013/chengdu2013/articles/wangyi.md)
 
-       * [土家野夫：学思分享](lrc2013/LAT/yefu.md)
+       * [土家野夫：学思分享](lrc2013/chengdu2013/articles/yefu.md)
 
-       * [谌洪果：学思分享](lrc2013/LAT/chenhongguo.md)
+       * [谌洪果：学思分享](lrc2013/chengdu2013/articles/chenhongguo.md)
 
-       * [蒋林：学思分享](lrc2013/LAT/jianglin.md)
+       * [蒋林：学思分享](lrc2013/chengdu2013/articles/jianglin.md)
 
 * [立大 2014](lrc2014/lrc2014.md)
 
