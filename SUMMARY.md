@@ -70,37 +70,45 @@
 
    * [授课文字](lrc2013/guangzhou2013/articles.md)
 
-       * [邓伟生：国家的正当性问题](lrc2013/guangzhou2013/articles/justification-of-Country.md)
+     * [邓伟生：国家的正当性问题](lrc2013/guangzhou2013/articles/justification-of-Country.md)
 
-       * [赖伟军：社会调查研究方法](lrc2013/guangzhou2013/articles/societyresearchways.md)
+     * [赖伟军：社会调查研究方法](lrc2013/guangzhou2013/articles/societyresearchways.md)
 
-       * [周如南：乌坎观察——探寻走出转型陷阱的动力](lrc2013/guangzhou2013/articles/wukan.md)
+     * [周如南：乌坎观察——探寻走出转型陷阱的动力](lrc2013/guangzhou2013/articles/wukan.md)
 
-       * [陈定方：独立书店在城市中的困境、突围与选择](lrc2013/guangzhou2013/articles/independent-bookstore.md)
+     * [陈定方：独立书店在城市中的困境、突围与选择](lrc2013/guangzhou2013/articles/independent-bookstore.md)
 
-       * [安猪：公益实战研讨会](lrc2013/guangzhou2013/articles/NGO-seminar.md)
+     * [安猪：公益实战研讨会](lrc2013/guangzhou2013/articles/NGO-seminar.md)
 
-       * [彭嘉志：广府文化](lrc2013/guangzhou2013/articles/cantonese-culture.md)
+     * [彭嘉志：广府文化](lrc2013/guangzhou2013/articles/cantonese-culture.md)
 
-       * [刘根勤：岭南文化](lrc2013/guangzhou2013/articles/lingnanculture.md)
+     * [刘根勤：岭南文化](lrc2013/guangzhou2013/articles/lingnanculture.md)
 
-       * [朱晔：中国城市化](lrc2013/guangzhou2013/articles/ChineseUrbanization.md)
+     * [朱晔：中国城市化](lrc2013/guangzhou2013/articles/ChineseUrbanization.md)
 
-       * [刘琼雄：跨界青年学——看不见的年轻人](lrc2013/guangzhou2013/articles/liuqiongxiong.md)
+     * [刘琼雄：跨界青年学——看不见的年轻人](lrc2013/guangzhou2013/articles/liuqiongxiong.md)
 
-       * [余以为：如何养成批判性思维](lrc2013/guangzhou2013/articles/criticalthinking.md)
+     * [余以为：如何养成批判性思维](lrc2013/guangzhou2013/articles/criticalthinking.md)
 
-       * [戴志勇：向内与向外——评论可以抵达何处](lrc2013/guangzhou2013/articles/iner&outer.md)
+     * [戴志勇：向内与向外——评论可以抵达何处](lrc2013/guangzhou2013/articles/iner&outer.md)
 
-       * [曲栋：公民社会与青年行动](lrc2013/guangzhou2013/articles/civilsociety&qingnianxingdong.md)
+     * [曲栋：公民社会与青年行动](lrc2013/guangzhou2013/articles/civilsociety&qingnianxingdong.md)
 
-       * [黄雪涛：公共法律行动](lrc2013/guangzhou2013/articles/public-law-action.md)
+     * [黄雪涛：公共法律行动](lrc2013/guangzhou2013/articles/public-law-action.md)
 
-       * [李思涯：电影与后现代主义](lrc2013/guangzhou2013/articles/sf&postmodern.md)
+     * [李思涯：电影与后现代主义](lrc2013/guangzhou2013/articles/sf&postmodern.md)
 
-       * [张晓静、陈洲：艺术与女权主义](lrc2013/guangzhou2013/articles/art&feminism.md)
+     * [张晓静、陈洲：艺术与女权主义](lrc2013/guangzhou2013/articles/art&feminism.md)
 
  * [成都组](lrc2013/chengdu2013/chengdu2013.md)
+
+   * [授课文字](lrc2013/chengdu2013/articles.md)
+
+     * [范美忠：谈《齐物论》](lrc2013/chengdu2013/articles/fanmeizhong.md)
+
+     * [冯川：通识英语教育](lrc2013/chengdu2013/articles/fengchuan.md)
+
+     * [李心释：语言与世界](lrc2013/chengdu2013/articles/lixinshi.md)
 
 * [立大 2014](lrc2014/lrc2014.md)
 
