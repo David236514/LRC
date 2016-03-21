@@ -122,11 +122,17 @@
 
    * [余意:立大 NGO 调研札记](lrc2013/learners/yuyi.md)
 
+   * [郭亦非：那一年盛夏，我们来到了立大](lrc2013/learners/guangzhou-7.16.md)
+
+   * [广州 7.17](lrc2013/learners/guangzhou-7.17.md)
+
+   * [广州 7.18](lrc2013/learners/guangzhou-7.18.md)
+
+ * [调研报告](lrc2013/reports/reports.md)
+
 * [立大 2014](lrc2014/lrc2014.md)
 
  * [北京组](lrc2014/beijing2014/beijing2014.md)
-
- * [上海组](lrc2014/shanghai2014/shanghai2014.md)
 
  * [广州组](lrc2014/guangzhou2014/guangzhou2014.md)
 
