@@ -58,8 +58,6 @@
        
        * [丁东 邢晓群：口述历史与民间学术](lrc2013/beijing2013/articles/dingdong&xingxiaoqun.md)
 
-   * [学员记忆](lrc2013/beijing2013/learners.md)
-
  * [上海组](lrc2013/shanghai2013/shanghai2013.md)
 
  * [广州组](lrc2013/guangzhou2013/Guangzhou2013.md)
@@ -113,6 +111,18 @@
        * [谌洪果：学思分享](lrc2013/chengdu2013/articles/chenhongguo.md)
 
        * [蒋林：学思分享](lrc2013/chengdu2013/articles/jianglin.md)
+
+ * [学员记忆](lrc2013/learners/learners.md)
+      
+   * [恺迪：Som Ven, 作为朋友](lrc2013/learners/kaidi.md)
+       
+   * [立人日记](lrc2013/learners/lirenriji.md)
+       
+   * [刘智：流水记——经历记录和自己的牢骚](lrc2013/learners/liuzhi.md)
+       
+   * [余意:立大 NGO 调研札记](lrc2013/learners/yuyi.md)
+       
+   * [邹建：在人间](lrc2013/learners/zoujian.md)
 
 * [立大 2014](lrc2014/lrc2014.md)
 
