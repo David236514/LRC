@@ -110,6 +110,14 @@
 
  * [学员记忆](lrc2013/learners/learners.md)
 
+   * [华夏：大学，是和世界谈一场恋爱](lrc2013/learners/huaxia.md)
+   
+   * [孙健：北京组义工孙健给所有申请者的信](lrc2013/learners/sunjian.md)
+   
+   * [黄宇峰：写给立人大学筹办义工们的一封信](lrc2013/learners/huangyufeng.md)
+   
+   * [陈仲伟：忆往拾零——那个立人大学的初啼时节](lrc2013/learners/chenzhongwei.md)
+   
    * [夏志诚：诗意的生活与自由的灵魂](lrc2013/learners/xiazhicheng.md)
 
    * [理想的大学——兼谈立人大学游学班](lrc2013/learners/zhenshuiwuxiang.md)
