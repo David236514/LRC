@@ -122,8 +122,6 @@
 
    * [余意:立大 NGO 调研札记](lrc2013/learners/yuyi.md)
 
-   * [邹建：在人间](lrc2013/learners/zoujian.md)
-
 * [立大 2014](lrc2014/lrc2014.md)
 
  * [北京组](lrc2014/beijing2014/beijing2014.md)
