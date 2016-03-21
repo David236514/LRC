@@ -108,6 +108,10 @@
 
  * [学员记忆](lrc2013/learners/learners.md)
       
+     * [夏志诚：诗意的生活与自由的灵魂](lrc2013/learners/xiazhicheng.md)
+     
+     * [理想的大学——兼谈立人大学游学班](lrc2013/learners/zhenshuiwuxiang.md)
+     
      * [恺迪：Som Ven, 作为朋友](lrc2013/learners/kaidi.md)
        
      * [立人日记](lrc2013/learners/lirenriji.md)
