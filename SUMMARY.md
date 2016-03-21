@@ -114,15 +114,15 @@
 
  * [学员记忆](lrc2013/learners/learners.md)
       
-   * [恺迪：Som Ven, 作为朋友](lrc2013/learners/kaidi.md)
+      * [恺迪：Som Ven, 作为朋友](lrc2013/learners/kaidi.md)
        
-   * [立人日记](lrc2013/learners/lirenriji.md)
+      * [立人日记](lrc2013/learners/lirenriji.md)
        
-   * [刘智：流水记——经历记录和自己的牢骚](lrc2013/learners/liuzhi.md)
+      * [刘智：流水记——经历记录和自己的牢骚](lrc2013/learners/liuzhi.md)
        
-   * [余意:立大 NGO 调研札记](lrc2013/learners/yuyi.md)
+      * [余意:立大 NGO 调研札记](lrc2013/learners/yuyi.md)
        
-   * [邹建：在人间](lrc2013/learners/zoujian.md)
+      * [邹建：在人间](lrc2013/learners/zoujian.md)
 
 * [立大 2014](lrc2014/lrc2014.md)
 
