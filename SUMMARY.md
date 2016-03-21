@@ -53,6 +53,8 @@
      * [树才：诗歌中的人与自我](lrc2013/beijing2013/articles/shucai.md)
 
      * [王翔：戏剧是什么？](lrc2013/beijing2013/articles/wangxiang.md)
+     
+     * [王东成：文化以及文化素质](lrc2013/beijing2013/articles/wangdongcheng.md)
        
      * [丁东 邢晓群：口述历史与民间学术](lrc2013/beijing2013/articles/dingdong&xingxiaoqun.md)
 
