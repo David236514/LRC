@@ -25,104 +25,98 @@
      * [冯克利：学思分享](lrc2013/LAT/fengkeli.md)
 
  * [北京组](lrc2013/beijing2013/beijing2013.md)
+  
+     * [王建勋：从当下的反宪政思潮说起](lrc2013/beijing2013/articles/wangjianxun.md)
 
-   * [授课文字](lrc2013/beijing2013/articles.md)
+     * [黄剑波：中国的民族与民族的中国](lrc2013/beijing2013/articles/Huangjianbo.md)
 
-       * [王建勋：从当下的反宪政思潮说起](lrc2013/beijing2013/articles/wangjianxun.md)
+     * [苑明理：维基百科与互联网](lrc2013/beijing2013/articles/wikipedia.md)
 
-       * [黄剑波：中国的民族与民族的中国](lrc2013/beijing2013/articles/Huangjianbo.md)
+     * [梁晓燕：在民间寻找事业和生命的价值](lrc2013/beijing2013/articles/liangxiaoyan.md)
 
-       * [苑明理：维基百科与互联网](lrc2013/beijing2013/articles/wikipedia.md)
+     * [赵鼎新：诚信，诚信危机与诚信构建](lrc2013/beijing2013/articles/zhaodingxin.md)
 
-       * [梁晓燕：在民间寻找事业和生命的价值](lrc2013/beijing2013/articles/liangxiaoyan.md)
+     * [张翠容：烽火大地 永恒之旅——一个华人记者的国际采访感悟](lrc2013/beijing2013/articles/GlobalReporter.md)
 
-       * [赵鼎新：诚信，诚信危机与诚信构建](lrc2013/beijing2013/articles/zhaodingxin.md)
+     * [杨早：人文教育的必要性](lrc2013/beijing2013/articles/humaneducation.md)
 
-       * [张翠容：烽火大地 永恒之旅——一个华人记者的国际采访感悟](lrc2013/beijing2013/articles/GlobalReporter.md)
+     * [张帆：摇滚与中国](lrc2013/beijing2013/articles/rockmusic.md)
 
-       * [杨早：人文教育的必要性](lrc2013/beijing2013/articles/humaneducation.md)
+     * [雷颐：中国近代国家观念之变化](lrc2013/beijing2013/articles/leiyi.md)
 
-       * [张帆：摇滚与中国](lrc2013/beijing2013/articles/rockmusic.md)
+     * [刘骐鸣：当代艺术中的民主意识——兼谈艺术家在社会中的角色与地位](lrc2013/beijing2013/articles/liuqiming.md)
 
-       * [雷颐：中国近代国家观念之变化](lrc2013/beijing2013/articles/leiyi.md)
+     * [柏邦妮：聊写作，聊生活](lrc2013/beijing2013/articles/baibangni.md)
 
-       * [刘骐鸣：当代艺术中的民主意识——兼谈艺术家在社会中的角色与地位](lrc2013/beijing2013/articles/liuqiming.md)
+     * [柳红：在时代的洪流里我们该如何站立](lrc2013/beijing2013/articles/liuhong.md)
 
-       * [柏邦妮：聊写作，聊生活](lrc2013/beijing2013/articles/baibangni.md)
+     * [树才：诗歌中的人与自我](lrc2013/beijing2013/articles/shucai.md)
 
-       * [柳红：在时代的洪流里我们该如何站立](lrc2013/beijing2013/articles/liuhong.md)
-
-       * [树才：诗歌中的人与自我](lrc2013/beijing2013/articles/shucai.md)
-
-       * [王翔：戏剧是什么？](lrc2013/beijing2013/articles/wangxiang.md)
+     * [王翔：戏剧是什么？](lrc2013/beijing2013/articles/wangxiang.md)
        
-       * [丁东 邢晓群：口述历史与民间学术](lrc2013/beijing2013/articles/dingdong&xingxiaoqun.md)
+     * [丁东 邢晓群：口述历史与民间学术](lrc2013/beijing2013/articles/dingdong&xingxiaoqun.md)
 
  * [上海组](lrc2013/shanghai2013/shanghai2013.md)
 
  * [广州组](lrc2013/guangzhou2013/Guangzhou2013.md)
 
-   * [授课文字](lrc2013/guangzhou2013/articles.md)
+     * [邓伟生：国家的正当性问题](lrc2013/guangzhou2013/articles/justification-of-Country.md)
 
-       * [邓伟生：国家的正当性问题](lrc2013/guangzhou2013/articles/justification-of-Country.md)
+     * [赖伟军：社会调查研究方法](lrc2013/guangzhou2013/articles/societyresearchways.md)
 
-       * [赖伟军：社会调查研究方法](lrc2013/guangzhou2013/articles/societyresearchways.md)
+     * [周如南：乌坎观察——探寻走出转型陷阱的动力](lrc2013/guangzhou2013/articles/wukan.md)
 
-       * [周如南：乌坎观察——探寻走出转型陷阱的动力](lrc2013/guangzhou2013/articles/wukan.md)
+     * [陈定方：独立书店在城市中的困境、突围与选择](lrc2013/guangzhou2013/articles/independent-bookstore.md)
 
-       * [陈定方：独立书店在城市中的困境、突围与选择](lrc2013/guangzhou2013/articles/independent-bookstore.md)
+     * [安猪：公益实战研讨会](lrc2013/guangzhou2013/articles/NGO-seminar.md)
 
-       * [安猪：公益实战研讨会](lrc2013/guangzhou2013/articles/NGO-seminar.md)
+     * [彭嘉志：广府文化](lrc2013/guangzhou2013/articles/cantonese-culture.md)
 
-       * [彭嘉志：广府文化](lrc2013/guangzhou2013/articles/cantonese-culture.md)
+     * [刘根勤：岭南文化](lrc2013/guangzhou2013/articles/lingnanculture.md)
 
-       * [刘根勤：岭南文化](lrc2013/guangzhou2013/articles/lingnanculture.md)
+     * [朱晔：中国城市化](lrc2013/guangzhou2013/articles/ChineseUrbanization.md)
 
-       * [朱晔：中国城市化](lrc2013/guangzhou2013/articles/ChineseUrbanization.md)
+     * [刘琼雄：跨界青年学——看不见的年轻人](lrc2013/guangzhou2013/articles/liuqiongxiong.md)
 
-       * [刘琼雄：跨界青年学——看不见的年轻人](lrc2013/guangzhou2013/articles/liuqiongxiong.md)
+     * [余以为：如何养成批判性思维](lrc2013/guangzhou2013/articles/criticalthinking.md)
 
-       * [余以为：如何养成批判性思维](lrc2013/guangzhou2013/articles/criticalthinking.md)
+     * [戴志勇：向内与向外——评论可以抵达何处](lrc2013/guangzhou2013/articles/iner&outer.md)
 
-       * [戴志勇：向内与向外——评论可以抵达何处](lrc2013/guangzhou2013/articles/iner&outer.md)
+     * [曲栋：公民社会与青年行动](lrc2013/guangzhou2013/articles/civilsociety&qingnianxingdong.md)
 
-       * [曲栋：公民社会与青年行动](lrc2013/guangzhou2013/articles/civilsociety&qingnianxingdong.md)
+     * [黄雪涛：公共法律行动](lrc2013/guangzhou2013/articles/public-law-action.md)
 
-       * [黄雪涛：公共法律行动](lrc2013/guangzhou2013/articles/public-law-action.md)
+     * [李思涯：电影与后现代主义](lrc2013/guangzhou2013/articles/sf&postmodern.md)
 
-       * [李思涯：电影与后现代主义](lrc2013/guangzhou2013/articles/sf&postmodern.md)
-
-       * [张晓静、陈洲：艺术与女权主义](lrc2013/guangzhou2013/articles/art&feminism.md)
+     * [张晓静、陈洲：艺术与女权主义](lrc2013/guangzhou2013/articles/art&feminism.md)
 
  * [成都组](lrc2013/chengdu2013/chengdu2013.md)
 
-   * [授课文字](lrc2013/chengdu2013/articles.md)
+     * [范美忠：谈《齐物论》](lrc2013/chengdu2013/articles/fanmeizhong.md)
 
-       * [范美忠：谈《齐物论》](lrc2013/chengdu2013/articles/fanmeizhong.md)
+     * [冯川：通识英语教育](lrc2013/chengdu2013/articles/fengchuan.md)
 
-       * [冯川：通识英语教育](lrc2013/chengdu2013/articles/fengchuan.md)
+     * [李心释：语言与世界](lrc2013/chengdu2013/articles/lixinshi.md)
+      
+     * [王怡：我的学思历程](lrc2013/chengdu2013/articles/wangyi.md)
 
-       * [李心释：语言与世界](lrc2013/chengdu2013/articles/lixinshi.md)
-       
-       * [王怡：我的学思历程](lrc2013/chengdu2013/articles/wangyi.md)
+     * [土家野夫：学思分享](lrc2013/chengdu2013/articles/yefu.md)
 
-       * [土家野夫：学思分享](lrc2013/chengdu2013/articles/yefu.md)
+     * [谌洪果：学思分享](lrc2013/chengdu2013/articles/chenhongguo.md)
 
-       * [谌洪果：学思分享](lrc2013/chengdu2013/articles/chenhongguo.md)
-
-       * [蒋林：学思分享](lrc2013/chengdu2013/articles/jianglin.md)
+     * [蒋林：学思分享](lrc2013/chengdu2013/articles/jianglin.md)
 
  * [学员记忆](lrc2013/learners/learners.md)
       
-      * [恺迪：Som Ven, 作为朋友](lrc2013/learners/kaidi.md)
+     * [恺迪：Som Ven, 作为朋友](lrc2013/learners/kaidi.md)
        
-      * [立人日记](lrc2013/learners/lirenriji.md)
+     * [立人日记](lrc2013/learners/lirenriji.md)
        
-      * [刘智：流水记——经历记录和自己的牢骚](lrc2013/learners/liuzhi.md)
+     * [刘智：流水记——经历记录和自己的牢骚](lrc2013/learners/liuzhi.md)
        
-      * [余意:立大 NGO 调研札记](lrc2013/learners/yuyi.md)
+     * [余意:立大 NGO 调研札记](lrc2013/learners/yuyi.md)
        
-      * [邹建：在人间](lrc2013/learners/zoujian.md)
+     * [邹建：在人间](lrc2013/learners/zoujian.md)
 
 * [立大 2014](lrc2014/lrc2014.md)
 
