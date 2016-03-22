@@ -108,6 +108,8 @@
 
    * [蒋林：学思分享](lrc2013/chengdu2013/articles/jianglin.md)
 
+ * [欧阳的每周一信](lrc2013/ouyang/ouyang.md)
+
  * [学员记忆](lrc2013/learners/learners.md)
 
    * [夏志诚：诗意的生活与自由的灵魂](lrc2013/learners/xiazhicheng.md)
@@ -118,7 +120,7 @@
 
    * [立人日记](lrc2013/learners/lirenriji.md)
 
-   * [刘智：流水记——经历记录和自己的牢骚](lrc2013/learners/liuzhi.md)
+   * [刘智：立人大学的特色在哪儿](lrc2013/learners/liuzhi.md)
 
    * [余意:立大 NGO 调研札记](lrc2013/learners/yuyi.md)
 
