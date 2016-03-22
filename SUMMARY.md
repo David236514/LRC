@@ -138,6 +138,12 @@
 
    * [广州 7.18](lrc2013/learners/guangzhou-7.18.md)
 
+   * [广州 7.20](lrc2013/learners/guangzhou-7.20.md)
+
+   * [广州 7.21](lrc2013/learners/guangzhou-7.21.md)
+
+   * [广州 7.22](lrc2013/learners/guangzhou-7.22.md)
+
  * [调研报告](lrc2013/reports/reports.md)
 
 * [立大 2014](lrc2014/lrc2014.md)
