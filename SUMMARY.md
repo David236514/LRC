@@ -26,7 +26,7 @@
 
  * [北京组](lrc2013/beijing2013/beijing2013.md)
 
-    * [王建勋：从当下的反宪政思潮说起](lrc2013/beijing2013/articles/wangjianxun.md)
+     * [王建勋：从当下的反宪政思潮说起](lrc2013/beijing2013/articles/wangjianxun.md)
 
      * [黄剑波：中国的民族与民族的中国](lrc2013/beijing2013/articles/Huangjianbo.md)
 
@@ -113,13 +113,13 @@
  * [学员记忆](lrc2013/learners/learners.md)
 
      * [华夏：大学，是和世界谈一场恋爱](lrc2013/learners/huaxia.md)
-   
+
      * [孙健：北京组义工孙健给所有申请者的信](lrc2013/learners/sunjian.md)
-   
+
      * [黄宇峰：写给立人大学筹办义工们的一封信](lrc2013/learners/huangyufeng.md)
-   
+
      * [陈仲伟：忆往拾零——那个立人大学的初啼时节](lrc2013/learners/chenzhongwei.md)
-   
+
      * [夏志诚：诗意的生活与自由的灵魂](lrc2013/learners/xiazhicheng.md)
 
      * [理想的大学——兼谈立人大学游学班](lrc2013/learners/zhenshuiwuxiang.md)
@@ -128,7 +128,7 @@
 
      * [立人日记](lrc2013/learners/lirenriji.md)
 
-     * [刘智：立人大学的特色在哪儿](lrc2013/learners/liuzhi.md)
+     * [刘嘎吱：立人大学的特色在哪儿](lrc2013/learners/liuzhi.md)
 
      * [余意:立大 NGO 调研札记](lrc2013/learners/yuyi.md)
 
@@ -156,7 +156,17 @@
 
      * [广州 7.29](lrc2013/learners/guangzhou-7.29.md)
 
- * [调研报告](lrc2013/reports/reports.md)
+ * [调研与访谈](lrc2013/reports/reports.md)
+
+     * [广州组：华南宗族文化](lrc2013/reports/south-clan-culture.md)
+
+     * [广州组：广州同性恋 NGO 的现状和发展](lrc2013/reports/homo-ngo.md)
+
+     * [广州组：访谈刘建锋](lrc2013/reports/liujianfeng.md)
+
+     * [广州组：博尔赫斯书店专访](lrc2013/reports/boerhesi.md)
+
+     * [广州组：NGO 调研札记](lrc2013/reports/ngo.md)
 
 * [立大 2014](lrc2014/lrc2014.md)
 
