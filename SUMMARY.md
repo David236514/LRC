@@ -36,6 +36,8 @@
      
      * [致立人大学 2013 年游学班学员的第一封信](lrc2013/ouyang/tostudents.md)
      
+     * [立人大学重新出发](lrc2013/ouyang/reopen.md)
+     
      
  * [LAT 分享会](lrc2013/LAT/lat.md)
 
