@@ -11,7 +11,32 @@
 * [立大 2012](lrc2012/lrc2012.md)
 
 * [立大 2013](lrc2013/lrc2013.md)
+ 
+ * [欧阳的每周一信](lrc2013/ouyang/ouyang.md)
 
+     * [给立大义工的每周一信 NO.1](lrc2013/ouyang/01.md)
+     
+     * [给立大义工的每周一信 NO.2](lrc2013/ouyang/02.md)
+     
+     * [给立大义工的每周一信 NO.3](lrc2013/ouyang/03.md)
+     
+     * [给立大义工的每周一信 NO.4](lrc2013/ouyang/04.md)
+     
+     * [给立大义工的每周一信 NO.5](lrc2013/ouyang/05.md)
+     
+     * [给立大义工的每周一信 NO.6](lrc2013/ouyang/06.md)
+     
+     * [给立大义工的每周一信 NO.7](lrc2013/ouyang/07.md)
+     
+     * [给立大义工的每周一信 NO.8](lrc2013/ouyang/08.md)
+     
+     * [给立大义工的每周一信 NO.9](lrc2013/ouyang/09.md)
+     
+     * [给立大义工的每周一信 NO.10](lrc2013/ouyang/10.md)
+     
+     * [致立人大学 2013 年游学班学员的第一封信](lrc2013/ouyang/tostudents.md)
+     
+     
  * [LAT 分享会](lrc2013/LAT/lat.md)
 
      * [刘苏里：学者型书人的学思历程](lrc2013/LAT/liusuli.md)
@@ -107,8 +132,6 @@
      * [谌洪果：学思分享](lrc2013/chengdu2013/articles/chenhongguo.md)
 
      * [蒋林：学思分享](lrc2013/chengdu2013/articles/jianglin.md)
-
- * [欧阳的每周一信](lrc2013/ouyang/ouyang.md)
 
  * [学员记忆](lrc2013/learners/learners.md)
 
