@@ -38,7 +38,6 @@
      
      * [立人大学重新出发](lrc2013/ouyang/reopen.md)
      
-     
  * [LAT 分享会](lrc2013/LAT/lat.md)
 
      * [刘苏里：学者型书人的学思历程](lrc2013/LAT/liusuli.md)
@@ -214,6 +213,10 @@
  * [南京组](lrc2014/nanjing2014/nanjing2014.md)
 
  * [武汉组](lrc2014/wuhan2014/wuhan2014.md)
+
+     * [张鸣](lrc2014/wuhan2014/zhangming.md)
+     * [李工真：欧洲教育](lrc2014/wuhan2014/ligongzhen.md)
+     * [梁木生：谈「读书」](lrc2014/wuhan2014/liangmusheng.md)
 
  * [学员记忆](lrc2014/learners/learners.md)
 
