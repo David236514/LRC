@@ -194,7 +194,11 @@
 
 * [立大 2014](lrc2014/lrc2014.md)
  
- * [冬季游学](lrc2014/winter2014/liusuli.md)
+ *[冬季游学](lrc2014/winter2014.md)
+ 
+     * [刘苏里：阅读的智慧](lrc2014/winter2014/liusuli.md)
+     
+     * [张鸣：民国在北京](lrc2014/winter2014/zhangming2014.md)
 
  * [北京组](lrc2014/beijing2014/beijing2014.md)
 
