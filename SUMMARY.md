@@ -193,6 +193,8 @@
      * [广州组：NGO 调研札记](lrc2013/reports/ngo.md)
 
 * [立大 2014](lrc2014/lrc2014.md)
+ 
+ * [冬季游学](lrc2014/winter2014/liusuli.md)
 
  * [北京组](lrc2014/beijing2014/beijing2014.md)
 
