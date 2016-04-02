@@ -194,7 +194,7 @@
 
 * [立大 2014](lrc2014/lrc2014/lrc2014.md)
  
- *[冬季游学](lrc2014/winter2014/winter2014.md)
+ * [冬季游学](lrc2014/winter2014/winter2014.md)
  
      * [刘苏里：阅读的智慧](lrc2014/winter2014/liusuli2014.md)
      
