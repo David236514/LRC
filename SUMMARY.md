@@ -196,6 +196,8 @@
  
  * [冬季游学](lrc2014/winter2014/winter2014.md)
  
+     * [柳红：我人生的三次选择](lrc2014/winter2014/liuhong2014.md)
+     
      * [刘苏里：阅读的智慧](lrc2014/winter2014/liusuli2014.md)
      
      * [张鸣：民国在北京](lrc2014/winter2014/zhangming2014.md)
