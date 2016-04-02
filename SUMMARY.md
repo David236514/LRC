@@ -192,7 +192,7 @@
 
      * [广州组：NGO 调研札记](lrc2013/reports/ngo.md)
 
-* [立大 2014](lrc2014/lrc2014/lrc2014.md)
+* [立大 2014](lrc2014/lrc2014.md)
  
  * [冬季游学](lrc2014/winter2014/winter2014.md)
  
