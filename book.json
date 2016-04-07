@@ -1,3 +1,14 @@
 {
-    "plugins": ["-search"]
+"plugins": [
+    "-search",
+    "search-pro",
+    "expandable-chapters"],
+
+"pluginsConfig": {
+    "search-pro": {
+        "cutWordLib": "nodejieba",
+        "defineWord" : ["Gitbook Use"]
+    },
+    "expandable-chapters":{}
+}
 }
