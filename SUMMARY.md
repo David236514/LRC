@@ -228,5 +228,18 @@
 
  * [学员记忆](lrc2014/learners/learners.md)
 
+     * [李婧：立大成长报告](lrc2014/learners/lijing.md)
+     
+     * [夏至诚：这个世界会好吗？——记立人大学2014寒假游学班](lrc2014/learners/xiazhicheng.md)
+     
+     * [张佳：明亮的凛冽](lrc2014/learners/zhangjia.md)
+     
+     * [张秉达：有所不同——记 2014 立大冬季游学](lrc2014/learners/zhangbingda.md)
+     
+     * [张鑫：立大遗梦](lrc2014/learners/zhangxin.md)
+     
+     * [小草微露：一席流水于君听](lrc2014/learners/xiaocao.md)
+     
+     * [李帅：寒假，立人](lrc2014/learners/lishuai.md)
 
 * [寄语](end.md)
