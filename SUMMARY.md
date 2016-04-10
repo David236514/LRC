@@ -223,7 +223,9 @@
  * [武汉组](lrc2014/wuhan2014/wuhan2014.md)
 
      * [张鸣](lrc2014/wuhan2014/zhangming.md)
+     
      * [李工真：欧洲教育](lrc2014/wuhan2014/ligongzhen.md)
+     
      * [梁木生：谈「读书」](lrc2014/wuhan2014/liangmusheng.md)
 
  * [学员记忆](lrc2014/learners/learners.md)
@@ -241,5 +243,19 @@
      * [小草微露：一席流水于君听](lrc2014/learners/xiaocao.md)
      
      * [李帅：寒假，立人](lrc2014/learners/lishuai.md)
-
+     
+     * [若水：读立大人之三言两语](lrc2014/learners/ruoshui.md)
+     
+     * [王彦入：我来到立人，是为了看到太阳](/lrc2014/learners/wangyanru.md)
+     
+     * [鸿波：寒假游学有所思——兼论知识人的“持守时代”](/lrc2014/learners/hongbo.md)
+     
+     * [赵梓楚：一个夏天和一个冬天的游学记](/lrc2014/learners/zhaozichu.md)
+     
+     * [郑智超：如果我不曾见过太阳](/lrc2014/learners/zhengzhichao.md)
+     
+     * [郭映秋：我们永远在路上的心](/lrc2014/learners/guoyingqiu.md)
+     
+     * [靳聪聪：一个个自由的灵魂](/lrc2014/learners/jincongcong.md)
+     
 * [寄语](end.md)
