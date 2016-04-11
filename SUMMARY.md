@@ -3,6 +3,28 @@
 * [前言](introduction.md)
 
 * [立大 2011](lrc2011/lrc2011.md)
+  
+ * [学员记忆](lrc2011/learners/learners.md)
+
+     * [谭威：杂碎，唠叨以及感念](lrc2011/learners/tanwei.md)
+     
+     * [崔鹏：关于立人的十个记忆碎片](lrc2011/learners/cuipeng.md)
+     
+     * [尘世：【大四学长碎碎念】从“负”到“零”](lrc2011/learners/chenshi.md)
+     
+     * [费费salsa：心安便是归处](lrc2011/learners/salsa.md)
+     
+     * [郭亦非：不再让你孤单](lrc2011/learners/guoyifei.md)
+     
+     * [钱大同：他走进了一间孤独的茅屋](lrc2011/learners/qiandatong.md)
+     
+     * [苏顺德：一期一会](lrc2011/learners/sushunde.md)
+     
+     * [微笑的鱼：写在结束边上@LRC](lrc2011/learners/weixiaodeyu.md)
+     
+     * [通往独立思考的道路](lrc2011/learners/tongwangdulisikaodedaolu.md)
+     
+     * [我爱×××](lrc2011/learners/xxx.md)
 
  * [开幕词](lrc2011/kaimuci.md)
 
