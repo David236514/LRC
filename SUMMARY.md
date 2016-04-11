@@ -26,10 +26,6 @@
      
      * [我爱×××](lrc2011/learners/xxx.md)
 
- * [开幕词](lrc2011/kaimuci.md)
-
- * [熊培云](lrc2011/xiongpeiyun.md)
-
 * [立大 2012](lrc2012/lrc2012.md)
 
 * [立大 2013](lrc2013/lrc2013.md)
