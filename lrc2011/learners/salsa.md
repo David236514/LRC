@@ -2,7 +2,7 @@
 
 **费费salsa**
 
-http://www.douban.com/note/164079602/
+~~http://www.douban.com/note/164079602/~~
 
 2011-07-29 23:32:17
 
