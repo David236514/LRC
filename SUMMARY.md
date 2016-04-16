@@ -30,7 +30,9 @@
 
 * [立大 2013](lrc2013/lrc2013.md)
 
- * [2013年李英强致词](lrc2013/ouyang/liyingqiang.md)
+ * [2013年李英强致词](lrc2013/toAll/liyingqiang.md)
+
+ * [致立人大学 2013 年游学班学员的第一封信](lrc2013/toAll/tostudents.md)
 
  * [欧阳的每周一信](lrc2013/ouyang/ouyang.md)
 
@@ -53,8 +55,6 @@
      * [给立大义工的每周一信 NO.9](lrc2013/ouyang/09.md)
 
      * [给立大义工的每周一信 NO.10](lrc2013/ouyang/10.md)
-
-     * [致立人大学 2013 年游学班学员的第一封信](lrc2013/ouyang/tostudents.md)
 
      * [立人大学重新出发](lrc2013/ouyang/reopen.md)
 
