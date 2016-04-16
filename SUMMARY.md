@@ -30,7 +30,7 @@
 
 * [立大 2013](lrc2013/lrc2013.md)
 
- *[2013年李英强致词](lrc2013/liyingqiang.md)
+ * [2013年李英强致词](lrc2013/ouyang/liyingqiang.md)
 
  * [欧阳的每周一信](lrc2013/ouyang/ouyang.md)
 
