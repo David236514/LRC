@@ -3,59 +3,61 @@
 * [前言](introduction.md)
 
 * [立大 2011](lrc2011/lrc2011.md)
-  
+
  * [学员记忆](lrc2011/learners/learners.md)
 
      * [谭威：杂碎，唠叨以及感念](lrc2011/learners/tanwei.md)
-     
+
      * [崔鹏：关于立人的十个记忆碎片](lrc2011/learners/cuipeng.md)
-     
-     * [尘世：【大四学长碎碎念】从“负”到“零”](lrc2011/learners/chenshi.md)
-     
+
+     * [尘世：【大四学长碎碎念】从「负」到「零」](lrc2011/learners/chenshi.md)
+
      * [费费salsa：心安便是归处](lrc2011/learners/salsa.md)
-     
+
      * [郭亦非：不再让你孤单](lrc2011/learners/guoyifei.md)
-     
+
      * [钱大同：他走进了一间孤独的茅屋](lrc2011/learners/qiandatong.md)
-     
+
      * [苏顺德：一期一会](lrc2011/learners/sushunde.md)
-     
+
      * [微笑的鱼：写在结束边上@LRC](lrc2011/learners/weixiaodeyu.md)
-     
+
      * [通往独立思考的道路](lrc2011/learners/tongwangdulisikaodedaolu.md)
-     
+
      * [我爱×××](lrc2011/learners/xxx.md)
 
 * [立大 2012](lrc2012/lrc2012.md)
 
 * [立大 2013](lrc2013/lrc2013.md)
- 
+
+ *[2013年李英强致词](lrc2013/liyingqiang.md)
+
  * [欧阳的每周一信](lrc2013/ouyang/ouyang.md)
 
      * [给立大义工的每周一信 NO.1](lrc2013/ouyang/01.md)
-     
+
      * [给立大义工的每周一信 NO.2](lrc2013/ouyang/02.md)
-     
+
      * [给立大义工的每周一信 NO.3](lrc2013/ouyang/03.md)
-     
+
      * [给立大义工的每周一信 NO.4](lrc2013/ouyang/04.md)
-     
+
      * [给立大义工的每周一信 NO.5](lrc2013/ouyang/05.md)
-     
+
      * [给立大义工的每周一信 NO.6](lrc2013/ouyang/06.md)
-     
+
      * [给立大义工的每周一信 NO.7](lrc2013/ouyang/07.md)
-     
+
      * [给立大义工的每周一信 NO.8](lrc2013/ouyang/08.md)
-     
+
      * [给立大义工的每周一信 NO.9](lrc2013/ouyang/09.md)
-     
+
      * [给立大义工的每周一信 NO.10](lrc2013/ouyang/10.md)
-     
+
      * [致立人大学 2013 年游学班学员的第一封信](lrc2013/ouyang/tostudents.md)
-     
+
      * [立人大学重新出发](lrc2013/ouyang/reopen.md)
-     
+
  * [LAT 分享会](lrc2013/LAT/lat.md)
 
      * [刘苏里：学者型书人的学思历程](lrc2013/LAT/liusuli.md)
@@ -211,13 +213,13 @@
      * [广州组：NGO 调研札记](lrc2013/reports/ngo.md)
 
 * [立大 2014](lrc2014/lrc2014.md)
- 
+
  * [冬季游学](lrc2014/winter2014/winter2014.md)
- 
+
      * [柳红：我人生的三次选择](lrc2014/winter2014/liuhong2014.md)
-     
+
      * [刘苏里：阅读的智慧](lrc2014/winter2014/liusuli2014.md)
-     
+
      * [张鸣：民国在北京](lrc2014/winter2014/zhangming2014.md)
 
  * [北京组](lrc2014/beijing2014/beijing2014.md)
@@ -241,39 +243,39 @@
  * [武汉组](lrc2014/wuhan2014/wuhan2014.md)
 
      * [张鸣](lrc2014/wuhan2014/zhangming.md)
-     
+
      * [李工真：欧洲教育](lrc2014/wuhan2014/ligongzhen.md)
-     
+
      * [梁木生：谈「读书」](lrc2014/wuhan2014/liangmusheng.md)
 
  * [学员记忆](lrc2014/learners/learners.md)
 
      * [李婧：立大成长报告](lrc2014/learners/lijing.md)
-     
+
      * [夏至诚：这个世界会好吗？——记立人大学2014寒假游学班](lrc2014/learners/xiazhicheng.md)
-     
+
      * [张佳：明亮的凛冽](lrc2014/learners/zhangjia.md)
-     
+
      * [张秉达：有所不同——记 2014 立大冬季游学](lrc2014/learners/zhangbingda.md)
-     
+
      * [张鑫：立大遗梦](lrc2014/learners/zhangxin.md)
-     
+
      * [小草微露：一席流水于君听](lrc2014/learners/xiaocao.md)
-     
+
      * [李帅：寒假，立人](lrc2014/learners/lishuai.md)
-     
+
      * [若水：读立大人之三言两语](lrc2014/learners/ruoshui.md)
-     
+
      * [王彦入：我来到立人，是为了看到太阳](/lrc2014/learners/wangyanru.md)
-     
+
      * [鸿波：寒假游学有所思——兼论知识人的“持守时代”](/lrc2014/learners/hongbo.md)
-     
+
      * [赵梓楚：一个夏天和一个冬天的游学记](/lrc2014/learners/zhaozichu.md)
-     
+
      * [郑智超：如果我不曾见过太阳](/lrc2014/learners/zhengzhichao.md)
-     
+
      * [郭映秋：我们永远在路上的心](/lrc2014/learners/guoyingqiu.md)
-     
+
      * [靳聪聪：一个个自由的灵魂](/lrc2014/learners/jincongcong.md)
-     
+
 * [寄语](end.md)
