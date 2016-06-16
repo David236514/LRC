@@ -1,14 +1,3 @@
----
-layout:     post
-title:      "大学的德性与大学生的德性"
-subtitle:   "LAT 分享"
-date:       2013-04-28
-author:     "周濂"
-header-img: "img/page-bg.jpg"
-tags:
-    - 立大三期
----
-
 ## 大学的德性和大学生的德性
 
 > 嘉宾：周濂
