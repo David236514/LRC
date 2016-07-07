@@ -8,7 +8,7 @@
 
 在2013年立大遊學前，已有《大學 在人間》文集出版印刷，主要整理了2011年講課內容、2012年部分個人隨記。
 
-[《大學 在人間》](https://github.com/LirenCollege/LRC/blob/master/download)
+[《大學 在人間》](https://github.com/LirenCollege/LRC/releases/tag/PDF)
 
 
 在此基礎上，繼續使用「大學 在人間」書名，將四期已有文稿審核整理成电子文档。
