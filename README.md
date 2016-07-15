@@ -10,8 +10,9 @@
 
 [《大學 在人間》](https://github.com/LirenCollege/LRC/releases)
 
-
 在此基礎上，繼續使用「大學 在人間」書名，將四期已有文稿審核整理成电子文档。
+
+[立大文集存档](https://lrc.gitbooks.io/lrc/content/) 重在收集有关立大的文字资料，追求「全」而非「精」；[立大博客](https://lirencollege.github.io) 主要发布立大四年来可读性较强、编辑校对比较好的文章，追求「精」而非「全」。文章庞杂，各篇目质量参差不齐，亟需编辑进行校对处理。非常欢迎您参与进来，请到 [讨论区](https://github.com/LirenCollege/LirenCollege.github.io/issues) 进行讨论参与。也可以直接发送邮件到<a href="mailto:rolling404@gmail.com"> rolling404@gmail.com </a>。
 
 ***
 ## 授權許可
