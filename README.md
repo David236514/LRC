@@ -15,7 +15,8 @@
 [立大文集存档](https://lrc.gitbooks.io/lrc/content/) 重在收集有关立大的文字资料，追求「全」而非「精」；[立大博客](https://lirencollege.github.io) 主要发布立大四年来可读性较强、编辑校对比较好的文章，追求「精」而非「全」。文章庞杂，各篇目质量参差不齐，亟需编辑进行校对处理。非常欢迎您参与进来，请到 [讨论区](https://github.com/LirenCollege/LirenCollege.github.io/issues) 进行讨论参与。也可以直接发送邮件到<a href="mailto:rolling404@gmail.com"> rolling404@gmail.com </a>。
 
 ***
-## 授權許可
+
+### 授權許可
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a>
 
