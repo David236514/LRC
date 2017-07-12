@@ -1,5 +1,12 @@
 {
     "plugins": [
-        "search"
-    ]    
+        "search",
+		"bring-yer-favicon"
+    ],
+    "pluginsConfig" : {
+       "favicons": {
+            "favicon.ico": "imgs/favicon.ico",
+            "apple-touch-ico-precomposed-152.png": "imgs/logo.png"
+        }
+    }		
 }
