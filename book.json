@@ -1,7 +1,7 @@
 {
     "plugins": [
         "search",
-        "favicon",
+        "-favicon",
         "bring-yer-favicon"
     ],
     "pluginsConfig": {}
