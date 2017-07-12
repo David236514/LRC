@@ -1,13 +1,5 @@
 {
     "plugins": [
         "search",
-        "-favicon",
-        "bring-yer-favicon",
-        "-custom-favicon"
-    ],
-    "pluginsConfig": {
-         "favicons": {
-             "favicon.ico": "imgs/favicon.ico"
-             }
-     }        
+        
 }
