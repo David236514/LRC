@@ -2,7 +2,7 @@
     "plugins": [
         "-favicon",
         "custom-favicon",
-        "refavicon"
+        "-refavicon"
     ],
     "pluginsConfig": {}
 }
