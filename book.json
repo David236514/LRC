@@ -4,7 +4,7 @@
         "custom-favicon"
     ],
     "pluginsConfig": {
-        "custom-favicon": {
+        "favicon": {
           "shortcut": "jpg/logo.png",
           "bookmark": "jpg/logo.png",
           "appleTouch": "jpg/logo.png",
