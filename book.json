@@ -1,8 +1,9 @@
 {
     "plugins": [
-        "-favicon",
+        "favicon",
         "custom-favicon",
-        "refavicon"
+        "refavicon",
+        "-bring-yer-favicon"
     ],
     "pluginsConfig": {}
 }
