@@ -3,7 +3,7 @@
         "search",
         "-favicon",
         "-bring-yer-favicon",
-        "custom-favicon"
+        "-custom-favicon"
     ],
     "pluginsConfig": {}
 }
