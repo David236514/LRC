@@ -3,5 +3,11 @@
         "search",
         "favicon"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "favicon": {
+           "shortcut": "imgs/favicon.ico",
+           "bookmark": "imgs/favicon.ico",
+           "appleTouch": "imgs/logo.png",
+           }
+      }     
 }
