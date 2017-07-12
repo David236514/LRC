@@ -1,13 +1,6 @@
 {
     "plugins": [
-	  "-search",
-	  "favicon"
-	  ],
-	"pluginsConfig": {
-      "favicon": {
-        "shortcut": "jpg/logo.png",
-		"bookmark": "jpg/logo.png",
-		"appleTouch": "jpg/logo.png",
-	    }
-	}
+        "favicon"
+    ],
+    "pluginsConfig": {}
 }
