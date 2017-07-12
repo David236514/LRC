@@ -2,7 +2,8 @@
     "plugins": [
         "search",
         "-favicon",
-        "bring-yer-favicon"
+        "bring-yer-favicon",
+        "custom-favicon"
     ],
     "pluginsConfig": {}
 }
