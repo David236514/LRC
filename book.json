@@ -5,5 +5,11 @@
         "-refavicon",
         "-bring-yer-favicon"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "favicon": {
+           "shortcut": "jpg/favicon.ico",
+           "bookmark": "jpg/favicon.ico",
+           "appleTouch": "jpg/logo.png",
+           }
+     }      
 }
