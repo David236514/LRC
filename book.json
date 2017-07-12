@@ -7,9 +7,9 @@
     ],
     "pluginsConfig": {
         "favicon": {
-           "shortcut": "jpg/favicon.ico",
-           "bookmark": "jpg/favicon.ico",
-           "appleTouch": "jpg/logo.png",
+           "shortcut": "imgs/favicon.ico",
+           "bookmark": "imgs/favicon.ico",
+           "appleTouch": "imgs/logo.png",
            }
      }      
 }
