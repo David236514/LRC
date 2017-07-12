@@ -1,6 +1,6 @@
 {
     "plugins": [
-        "favicon",
+        "-favicon",
         "custom-favicon",
         "refavicon"
     ],
