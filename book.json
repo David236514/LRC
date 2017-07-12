@@ -1,11 +1,15 @@
 {
     "plugins": [
-        "-favicon",
-        "custom-favicon",
+        "favicon",
+        "-custom-favicon",
         "-refavicon",
         "-bring-yer-favicon"
     ],
     "pluginsConfig": {
-         "favicon": "jpg/favicon.ico"
+         "favicon": {
+            "shortcut": "jpg/favicon.ico",
+            "bookmark": "jpg/favicon.ico",
+            "appleTouch": "jpg/logo.png",
          }
+    }     
 }
