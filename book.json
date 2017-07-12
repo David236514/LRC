@@ -1,6 +1,5 @@
 {
     "plugins": [
-        "-favicon",
         "custom-favicon"
     ],
     "pluginsConfig": {
