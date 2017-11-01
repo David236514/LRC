@@ -153,6 +153,8 @@
      * [谌洪果：学思分享](lrc2013/chengdu2013/articles/chenhongguo.md)
 
      * [蒋林：学思分享](lrc2013/chengdu2013/articles/jianglin.md)
+     
+     * [赵国君：我的学思历程](lrc2013/chengdu2013/articles/zhaoguojun.md)
 
  * [学员记忆](lrc2013/learners/learners.md)
 
