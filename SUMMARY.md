@@ -28,6 +28,8 @@
 
 * [立大 2012](lrc2012/lrc2012.md)
 
+     * [余世存：人的目的——为立人大学讲座的准备文稿](lrc2012/articles/yushicun.md)
+
 * [立大 2013](lrc2013/lrc2013.md)
 
  * [2013年李英强致词](lrc2013/toAll/liyingqiang.md)
@@ -153,7 +155,7 @@
      * [谌洪果：学思分享](lrc2013/chengdu2013/articles/chenhongguo.md)
 
      * [蒋林：学思分享](lrc2013/chengdu2013/articles/jianglin.md)
-     
+
      * [赵国君：我的学思历程](lrc2013/chengdu2013/articles/zhaoguojun.md)
 
  * [学员记忆](lrc2013/learners/learners.md)
