@@ -102,4 +102,4 @@ ps.在KTV的时候一直没唱歌，本来23日晚上要给大家唱一个的。
 
 无论发生什么，咱们顶得住！
 
-![](lrc2012/articles/dingdezhu.jpg)
+![](dingdezhu.jpg)
