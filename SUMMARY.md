@@ -32,6 +32,12 @@
 
      * [咱们顶得住](lrc2012/articles/dingdezhu.md)
 
+     * [想象另一种可能——小记立大，706和自己](lrc2012/articles/sunjian.md)
+
+     * [相信未来](lrc2012/articles/xiangxinweilai.md)
+
+     * [滚他妈的蛋——为立大纪录片预热](lrc2012/articles/xieyu.md)
+
      * [余世存：人的目的——为立人大学讲座的准备文稿](lrc2012/articles/yushicun.md)
 
 * [立大 2013](lrc2013/lrc2013.md)
