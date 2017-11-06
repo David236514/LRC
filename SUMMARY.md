@@ -38,6 +38,8 @@
 
      * [滚他妈的蛋——为立大纪录片预热](lrc2012/articles/xieyu.md)
 
+     * [立大日记](lrc2012/articles/lidariji.md)
+
      * [余世存：人的目的——为立人大学讲座的准备文稿](lrc2012/articles/yushicun.md)
 
 * [立大 2013](lrc2013/lrc2013.md)
