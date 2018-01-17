@@ -120,6 +120,8 @@
 
  * [上海组](lrc2013/shanghai2013/shanghai2013.md)
 
+     * [上海组公告](lrc2013/shanghai2013/gonggao.md)
+
  * [广州组](lrc2013/guangzhou2013/Guangzhou2013.md)
 
      * [邓伟生：国家的正当性问题](lrc2013/guangzhou2013/articles/justification-of-Country.md)
